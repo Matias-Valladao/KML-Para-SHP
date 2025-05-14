@@ -1,1 +1,1 @@
-Um comversor simples de KMS para SHP e vice-versa.
+Um comversor simples de KML para SHP e vice-versa.
